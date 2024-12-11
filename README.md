@@ -14,7 +14,7 @@ I was assigned **a Flappy Bird Clone in Assembly Language** for the **Intel 8086
 - A bright green color is used as a placeholder for transparency
 - ISR's from the IVT are hooked onto and unhooked as required to ensure keyboard control and score tracking.
 - _i also made all of the visuals myself (including the pixel art)_
-- 
+
 ![image](https://github.com/user-attachments/assets/ffa490e9-47c1-4ac8-a8f9-c4a306c0131d)
 ![image](https://github.com/user-attachments/assets/883ca198-508b-4c47-8d7d-d1951c974724)
 ![image](https://github.com/user-attachments/assets/5cb2d543-c07b-4a28-b54f-3ceaa1739242)
